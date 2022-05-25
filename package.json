@@ -1,0 +1,11 @@
+{
+  "name": "teamcity-sandbox",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/carpet-knight/teamcity-sandbox",
+  "author": "Ivan Vasilev",
+  "license": "MIT",
+  "dependencies": {
+    "teamcity-service-messages": "^0.1.14"
+  }
+}
