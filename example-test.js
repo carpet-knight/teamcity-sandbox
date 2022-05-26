@@ -12,6 +12,4 @@ tsm.testFailed({name: 'Test 2'})
 
 tsm.testSuiteFinished({name: 'Suite 1'})
 
-tsm.buildProblem({description: 'Some shit happened'})
-
 tsm.blockClosed({name: 'Example test block'})
