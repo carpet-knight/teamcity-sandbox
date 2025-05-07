@@ -10,6 +10,9 @@ tsm.testFinished({name: 'Test 1'})
 tsm.testStarted({name: 'Test 2'})
 tsm.testFailed({name: 'Test 2'})
 
+tsm.testStarted({name: 'Test 3'})
+tsm.testFinished({name: 'Test 3'})
+
 tsm.testSuiteFinished({name: 'Suite 1'})
 
 tsm.blockClosed({name: 'Example test block'})
